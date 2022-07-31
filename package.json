@@ -1,0 +1,12 @@
+{
+  "name": "nexcom-analytics",
+  "version": "0.0.0",
+  "description": "NexcomAnalytics",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "googleapis": "^105.0.0"
+  }
+}

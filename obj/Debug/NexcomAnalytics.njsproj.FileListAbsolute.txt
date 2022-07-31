@@ -1,0 +1,3 @@
+C:\Users\NITRO 5\Documents\_code\NexcomAnalytics\obj\Debug\NexcomAnalytics.njsproj.AssemblyReference.cache
+C:\Users\NITRO 5\Documents\_code\NexcomAnalytics\obj\Debug\NexcomAnalytics.njsproj.CoreCompileInputs.cache
+C:\Users\NITRO 5\Documents\_code\NexcomAnalytics\bin\Microsoft.NodejsTools.WebRole.dll
